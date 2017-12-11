@@ -17,7 +17,7 @@ This is the code for [this](https://youtu.be/pN7ETkOizGM) video on Youtube by Si
 
 ## Usage
 
-Just run 'python pong.py' in terminal
+Just run 'python pong_policy_gradients.py' in terminal
 
 ## Credits
 
